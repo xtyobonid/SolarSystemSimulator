@@ -267,8 +267,8 @@ public class Space extends Canvas implements MouseMotionListener, MouseWheelList
 			mouseDragTempY = point.y;
 			
 			repaint();
-		  }
-	 }
+		}
+	}
 	
 	public void save(PrintWriter save) {
 		//simulation time
